@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Little drops of water make the mighty ocean" - Me the Great
 Use the left arrow to go back!
